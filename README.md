@@ -1,2 +1,1 @@
-# nikhil-portfolio
-portfolio
+# portfolio.github.io
